@@ -42,12 +42,29 @@ Application optimization & architectural refactoring
 
 ## Contact
 
-GitHub: <a href="https://github.com/ibnuyasir/">
-<img src="blob:https://loading.io/ed899a89-6808-4dca-8469-19f2d00fc518"></img>
-</a>
-
 Email: abnyasir.kenka@gmail.com
 
+[![Button Shield]][Shield]
+
+</div>
+
+<br>
+<br>
+
+
+<!---------------------------------------------------------------------------->
+
+[Button Shield]: https://img.shields.io/badge/Go_to_my_main_github_repository_account-37a779?style=for-the-badge
+
+[License]: LICENSE
+[Shield]: https://github.com/ibnuyasir/
+[#]: #
+
+
+<!---------------------------------[ Badges ]---------------------------------->
+
+[Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
+[Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
 
 <!---------------------------------------------------------------------------->
 
