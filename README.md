@@ -9,7 +9,7 @@ Furthermore, I frequently experiment with various frameworks, compilers, both le
 ## Languages I Use
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
   <img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.9.0/1738545183646/Microsoft.VisualStudio.Services.Icons.Default" width="50" title="Pascal"/> <img src="https://www.adaforge.org/resources/In_Strong_Typing_We_Trust-1983-2022-Circle.png" width="50" title="Ada"/> </p>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 ## Tech Stack & Tools i use
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
@@ -42,6 +42,8 @@ Application optimization & architectural refactoring
 
 ## Contact
 
-GitHub: <button><a href="https://github.com/ibnuyasir/">Here my first account</a></button>
+GitHub: <a href="https://github.com/ibnuyasir/">
+<img src="blob:https://loading.io/ed899a89-6808-4dca-8469-19f2d00fc518"></img>
+</a>
 
 Email: abnyasir.kenka@gmail.com
