@@ -29,15 +29,11 @@ Furthermore, I frequently experiment with various frameworks, compilers, both le
 
 ## What I Do
 
-Build full-stack web applications (modern stack or classic stack)
-
-Create fast & scalable backends (Node, PHP, C)
-
-Reverse engineering & low-level debugging
-
-Linux systems, networking, firewalling
-
-Application optimization & architectural refactoring
+- Build full-stack web applications (modern stack or classic stack)
+- Create fast & scalable backends (Node, PHP, C)
+- Reverse engineering & low-level debugging
+- Linux systems, networking, firewalling
+- Application optimization & architectural refactoring
 
 ## Contact
 
