@@ -82,4 +82,5 @@ Email: abnyasir.kenka@gmail.com
 [Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
 
 <br>
-![Visitor Count](https://profile-counter.glitch.me/KURTZ119/count.svg)
+
+[Visitor Count]: https://profile-counter.glitch.me/KURTZ119/count.svg
