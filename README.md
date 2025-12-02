@@ -83,4 +83,4 @@ Email: abnyasir.kenka@gmail.com
 
 <br>
 
-[![Visits Badge](https://badges.strrl.dev/visits/KURTZ119/serverless-github-badges)](https://badges.strrl.dev)
+[![Visits Badge](https://badges.strrl.dev/visits/KURTZ119/KURTZ119)](https://badges.strrl.dev)
