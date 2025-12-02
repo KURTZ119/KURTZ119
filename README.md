@@ -83,4 +83,4 @@ Email: abnyasir.kenka@gmail.com
 
 <br>
 
-![](https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&lcolor=000&color=fff&style=for-the-badge&logo=Canva&logoColor=00C4CC&hit=false)
+[![Visits Badge](https://badges.strrl.dev/visits/KURTZ119/serverless-github-badges)](https://badges.strrl.dev)
