@@ -83,4 +83,4 @@ Email: abnyasir.kenka@gmail.com
 
 <br>
 
-![Profile views](komarev.com{KURTZ119}&label=Profile%20views&color=ce9927&style=flat)
+![](https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&lcolor=000&color=fff&style=for-the-badge&logo=Canva&logoColor=00C4CC&hit=false)
