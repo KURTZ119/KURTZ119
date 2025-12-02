@@ -83,4 +83,4 @@ Email: abnyasir.kenka@gmail.com
 
 <br>
 
-[Visitor Count]: https://profile-counter.glitch.me/KURTZ119/count.svg
+![Visitor Count](https://profile-counter.glitch.me/KURTZ119/count.svg)
