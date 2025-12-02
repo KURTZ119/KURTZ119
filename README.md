@@ -83,4 +83,4 @@ Email: abnyasir.kenka@gmail.com
 
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/KURTZ119/count.svg)
+![Profile views](komarev.com{KURTZ119}&label=Profile%20views&color=ce9927&style=flat)
