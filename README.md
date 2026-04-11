@@ -5,7 +5,7 @@ I'm a developer who enjoys building various projects, from web apps and backend 
 My main focus is creating lightweight, stable, and high-performance systems.
 
 <div align = center>
-  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif"></img>
+  <img style="border-radius: 10px;" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif"></img>
 </div>
 
 Furthermore, I frequently experiment with various frameworks, compilers, both legacy and modern languages, and system architectures.
